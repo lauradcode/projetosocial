@@ -24,3 +24,11 @@ main{
     background: url(imagens/frame-iphone.png) no-repeat;} 
     /*centralizano asntes de tudo; colocando tamanho p aparecer a img, e importando a img*/
     /*na questão de h e w da img, é melhhor colocar num app que mede as dimensões aoinvés de ficar ajustando*/
+#tela{
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 270px;
+    height: 471px;
+    background-size: cover;}
+    
